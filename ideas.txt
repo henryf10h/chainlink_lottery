@@ -1,0 +1,10 @@
+>> you want to buy with tokens at discount.
+
+>> how to test?
+>test each method in order
+>setLottery<, start<, enter<, close<, fundwinner<, claim<
+
+>> done: 6
+>> remaining : 0
+
+>> 0x080c0F31a3Ede1C011B43C648924F61da3216621
